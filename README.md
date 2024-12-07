@@ -350,7 +350,6 @@ lake.html
 ```
 
 # OUTPUT
-![alt text](<imagemap/mapapp/static/Screenshot (28).png>)
 ![alt text](<Screenshot (48).png>)
 ![alt text](<Screenshot (49).png>)
 ![alt text](<Screenshot (50).png>)
